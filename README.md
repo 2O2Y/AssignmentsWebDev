@@ -1,2 +1,0 @@
-# AssignmentsWebDev
-WEBDEVFORMEANDYOUANDUS
